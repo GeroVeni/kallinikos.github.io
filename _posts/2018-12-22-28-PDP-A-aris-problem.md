@@ -1,5 +1,5 @@
 ---
-title: "28ος ΠΔΠ - Α' φάση - Πρόβλημα"
+title: "28ος ΠΔΠ Α' Φάση: Υπερυπολογιστής ARIS (aris)"
 layout: post
 tags: [ΠΔΠ]
 category: 1
