@@ -7,7 +7,8 @@ comments: true
 
 ---
 
-[TOC]
+* TOC
+{:toc}
 
 ## Εκφώνηση
 
